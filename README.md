@@ -1,10 +1,8 @@
-# Very short description of the package
+# Integrate Laravel with Thingiverse
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dronki/thingiverse.svg?style=flat-square)](https://packagist.org/packages/dronki/thingiverse)
 [![Total Downloads](https://img.shields.io/packagist/dt/dronki/thingiverse.svg?style=flat-square)](https://packagist.org/packages/dronki/thingiverse)
 ![GitHub Actions](https://github.com/dronki/thingiverse/actions/workflows/main.yml/badge.svg)
-
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
 
@@ -14,11 +12,6 @@ You can install the package via composer:
 composer require dronki/thingiverse
 ```
 
-## Usage
-
-```php
-// Usage description here
-```
 
 ### Testing
 
@@ -46,7 +39,3 @@ If you discover any security related issues, please email rickard@ahlstedt.xyz i
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
